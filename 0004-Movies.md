@@ -8,4 +8,4 @@
 
 * Standoff (2016)
 
-* Misconduct (2016)
+* <s>Misconduct (2016)</s>
