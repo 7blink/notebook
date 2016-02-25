@@ -13,3 +13,4 @@
  
 <br>
 ###Kazam options
+* https://www.youtube.com/watch?v=gJ7Q4qd4dls
