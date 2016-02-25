@@ -11,3 +11,5 @@
 * Sound Quality selected
 * Select Window then record
  
+<br>
+###Kazam options
