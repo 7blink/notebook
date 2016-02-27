@@ -2,6 +2,7 @@
 
 A guide to living a better life.
 
+<br>
 ### To always be honest
   * Owning up to mistakes
   * Give the benefit of the doubt if unsure
@@ -11,7 +12,7 @@ A guide to living a better life.
     * To let go, be free, and take it easy
     * To not fall to social pressure
 
-
+<br>
 ### To transform to my better self.
   * Own up to mistakes
   * Align my current self with my ideal self:
@@ -29,7 +30,7 @@ A guide to living a better life.
     * Persona fatigue
     * Self judgment fatigue
 
-
+<br>
 ### To love your enemy
   * Ensure everyone has a voice
   * Find common ground with everyone
@@ -37,8 +38,8 @@ A guide to living a better life.
   * Convert negative engery to positivity
   * Like everyone
 
-
-* Be a provider of value and positivity
+<br>
+### Be a provider of value and positivity
   * Always be positive
   * Be engaged in the people I am with
   * Be passionate and excited
@@ -53,7 +54,7 @@ A guide to living a better life.
   * Share what I enjoy
   * Always be building good karma.
 
-
+<br>
 ###  Meditation
   * Workout
     * Cardio (helps sleep)
