@@ -4,3 +4,4 @@
 * London Has Fallen (2016)
 * Standoff (2016)
 * Creative Control (2016)
+* Whiskey Tango Foxtrot 2016
