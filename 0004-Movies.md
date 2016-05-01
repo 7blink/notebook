@@ -5,4 +5,5 @@
 * Creative Control (2016)
 * Whiskey Tango Foxtrot 2016
 * Snowden
-* The Man Who Knew Ifinity
+* The Man Who Knew Infinity
+* Keanu
