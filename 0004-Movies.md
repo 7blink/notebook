@@ -1,5 +1,5 @@
 * 13 Hours
-* The Finest Hours (2016)
+* <s> The Finest Hours (2016)</s>
 * Race (2016)
 * Standoff (2016)
 * Creative Control (2016)
