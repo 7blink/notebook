@@ -1,0 +1,15 @@
+### Install h.265 coded using:
+
+sudo add-apt-repository ppa:mc3man/trusty-media
+
+sudo apt-get update, and
+
+sudo apt-get dist-upgrade or sudo apt-get install vlc vlc-plugin-libde265 
+
+### Change video settings to
+
+enable postprocessing
+
+Open GL GLX video output
+
+Hardware Video Acceleration (VA) API
