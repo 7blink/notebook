@@ -22,3 +22,12 @@
 * noise reduction setting
   *  Then select a "silent" segement to get the noise profile
   *  Then click on reduce noise
+
+<br />
+### Handbrake compression
+Use handbrake to compress a large video file
+
+Select source and the input file.  In destination, type the output file.  
+
+ * Video setting let you change fps and quality
+ * Picture settings let you crop and denoise the video
