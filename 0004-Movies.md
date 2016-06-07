@@ -1,6 +1,6 @@
-* 13 Hours
+* <s>13 Hours</s>
 * <s> The Finest Hours (2016)</s>
-* Race (2016)
+* <s>Race (2016)</s>
 * Standoff (2016)
 * <s> Creative Control (2016) </s>
 * Whiskey Tango Foxtrot 2016
