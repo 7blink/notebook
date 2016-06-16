@@ -6,9 +6,10 @@
 * Whiskey Tango Foxtrot 2016
 * Snowden
 * The Man Who Knew Infinity
-* Keanu
+* <s>Keanu</s>
 * Money Monster
 * The Handmaiden
+* Eye in the Sky
 
 
 #Books
