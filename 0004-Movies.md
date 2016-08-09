@@ -2,7 +2,7 @@
 * Snowden
 * The Man Who Knew Infinity
 * <s>Keanu</s>
-* Money Monster
+* <s>Money Monster</s>
 * The Handmaiden
 * Eye in the Sky
 * Sully
