@@ -6,3 +6,7 @@
 ### or
 
 * sleep 3; xset dpms force off
+
+### or 
+
+* xset dpms force standby
