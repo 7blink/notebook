@@ -1,11 +1,11 @@
 
 * Snowden
-* The Man Who Knew Infinity
+* <s>The Man Who Knew Infinity</s>
 * <s>Keanu</s>
-* <s>Money Monster</s>
 * The Handmaiden
 * Eye in the Sky
 * Sully
+* Anthropoid
 
 
 #Books
