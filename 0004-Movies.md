@@ -6,6 +6,7 @@
 * Eye in the Sky
 * Sully
 * Anthropoid
+* Kubo and the Two Strings
 
 
 #Books
