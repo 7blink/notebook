@@ -1,5 +1,4 @@
 
-* The Handmaiden
 * Eye in the Sky
 * Kubo and the Two Strings
 * Edge of Seventeen
