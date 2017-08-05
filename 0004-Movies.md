@@ -16,8 +16,11 @@
 # Books
 * Cumulus Eliot Peper
 * The Way of The Iceman
-* Never Never
 * Janet Evanovich Curious Minds 
+* Patterson Murder Games
+* Grisham camino island
+* Patterson 16th seduction
+* Patterson Crazy House
 
 
 # MMA
