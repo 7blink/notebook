@@ -11,6 +11,7 @@
 * Valerian and the City of a Thousand Planets
 * American Gods
 * Atomic Blonde
+* the big sick
 
 
 # Books
