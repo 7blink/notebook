@@ -16,16 +16,5 @@
 * Lady Bird 2017
 
 
-# Books
-* Cumulus Eliot Peper
-* The Way of The Iceman
-* <s>Janet Evanovich Curious Minds 
-* Patterson Murder Games
-* Grisham camino island
-* Patterson 16th seduction
-* Patterson Crazy House</s>
-* Patterson Chase
-
-
 # MMA
 * One Championship
