@@ -1,1 +1,22 @@
 sudo dpkg --remove --force-remove-reinstreq {package name}
+
+
+Start with
+
+sudo dpkg --remove --force-all hl1440lpr
+
+If that fails ...
+
+# become root
+sudo -i
+cd /var/lib/dpkg/info
+rm -rf hl1440lpr*
+
+dpkg --remove --force-remove-reinstreq hl1440lpr
+
+exit
+
+Confirm apt-get is fixed
+
+# should return no errors
+sudo apt-get update
