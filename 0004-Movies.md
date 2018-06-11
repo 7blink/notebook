@@ -9,6 +9,7 @@
 * Kung Fu Yoga (Jackie Chan)
 * Lady Bird 2017
 * Prospect
+* Hereditary (horror)
 
 
 # MMA
